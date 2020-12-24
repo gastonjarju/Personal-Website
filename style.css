@@ -239,6 +239,7 @@ li{
 }
 
 .profile-img {
+  width: 70vh;
   flex: 1;
   margin-right: 5rem;
 }
@@ -323,8 +324,8 @@ li{
   position: relative;
   padding: 5rem;
   list-style: none;
-  text-align: left;
-  width: 70%;
+  text-align: center;
+  width: 80%;
 }
 
 .timeline h1{
@@ -399,7 +400,7 @@ li{
 }
 
 .projects-img {
-    width: 50rem;
+    width: 30rem;
     flex: 1;
 }
 
@@ -444,7 +445,7 @@ li{
 /* Start copyright */
 .copyright {
     width: 100%;
-    height: 10rem;
+    height: 15rem;
     text-align: center;
     background-color: #16162d;
     padding: 2rem 0;
