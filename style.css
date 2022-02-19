@@ -494,7 +494,7 @@ li{
 
 /*media queries*/
 
-@media screen and (max-width: 768px){
+@media only screen and (max-width: 768px){
   body {
     background: url("layout-background.jpg") no-repeat center fixed;
     background-size: cover;
