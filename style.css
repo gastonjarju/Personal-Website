@@ -557,7 +557,7 @@ li{
   .timeline ul {
     border-left: 2px solid #ffe838;
     border-radius: .1rem;
-    background-color: black;
+    background-color: white;
     margin: 0 0 0 auto;
     position: relative;
     padding: 1rem;
@@ -578,6 +578,7 @@ li{
   .timeline p{
     font-size: 12px;
     display: initial;
+    color: black;
   }
 
   .timeline .date::before{
