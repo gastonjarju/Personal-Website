@@ -546,20 +546,12 @@ li{
     font-size: 4rem;
   }
 
-  /* .container {
-      width: 100%;
-      max-width: 150rem;
-      height: 100%;
-      margin: 0 auto;
-      position: relative;
-  } */
-
   .timeline ul {
     border-left: 2px solid #ffe838;
     border-radius: .1rem;
     background-color: white;
     margin: 0 0 0 auto;
-    position: relative;
+    position: fixed;
     padding: 1rem;
     list-style: none;
     text-align: initial;
