@@ -546,37 +546,37 @@ li{
     font-size: 4rem;
   }
 
-  .container {
+  /* .container {
       width: 100%;
       max-width: 150rem;
       height: 100%;
       margin: 0 auto;
       position: relative;
-  }
+  } */
 
   .timeline ul {
     border-left: 2px solid #ffe838;
-    border-radius: .2rem;
+    border-radius: .1rem;
     background-color: #000839;
     margin: 0 0 0 auto;
     position: relative;
-    padding: 2rem;
+    padding: 1rem;
     list-style: none;
     text-align: initial;
-    width: 100%;
+    width: 120%;
   }
 
 
   .timeline h1{
-    font-size: auto;
+    font-size: 16px;
   }
 
   .timeline h6{
-    font-size: auto;
+    font-size: 14px;
   }
 
   .timeline p{
-    font-size: auto;
+    font-size: 12px;
     display: initial;
   }
 
