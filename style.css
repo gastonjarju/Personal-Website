@@ -563,8 +563,7 @@ li{
 
 
   .timeline ul {
-    display: block;
-    border-left: 2px solid black;
+    border-left: 4px solid #ffe838;
     border-radius: .1rem;
     background-color: white;
     /* margin: 0 0 0 auto; */
