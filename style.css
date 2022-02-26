@@ -582,11 +582,11 @@ li{
   }
 
   .timeline .date::before{
-    left: -15rem;
+    display: none;
   }
 
   .timeline  .date::after{
-    left: -3.9rem;
+    display: none;
   }
 }
 
