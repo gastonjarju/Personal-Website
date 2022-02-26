@@ -500,6 +500,9 @@ li{
     background-size: cover;
     background-color: #16697a;
   }
+  .about-details p {
+    text-align: initial;
+  }
 
   .landing-text h1{
     font-size: 15rem;
@@ -551,7 +554,7 @@ li{
     border-radius: .1rem;
     background-color: white;
     margin: 0 0 0 auto;
-    position: fixed;
+    position: relative;
     padding: 1rem;
     list-style: none;
     text-align: initial;
