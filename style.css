@@ -494,7 +494,7 @@ li{
 
 /*media queries*/
 
-@media only screen and (max-width: 480px){
+@media only screen and (min-width: 480px){
   body {
     background: url("layout-background.jpg") no-repeat center fixed;
     background-size: cover;
@@ -567,7 +567,7 @@ li{
   }
 
   .timeline  .date::after{
-    left: -3.9rem;
+    left: -4.9rem;
   }
 }
 
