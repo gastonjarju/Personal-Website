@@ -599,7 +599,7 @@ li{
 
   .timeline p{
     font-size: 1.6rem;
-    position: center;
+    position: relative;
   }
 
   .timeline .date::before{
