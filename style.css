@@ -557,13 +557,13 @@ li{
   .timeline ul {
     border-left: 2px solid #ffe838;
     border-radius: .1rem;
-    background-color: #000839;
+    background-color: black;
     margin: 0 0 0 auto;
     position: relative;
     padding: 1rem;
     list-style: none;
     text-align: initial;
-    width: 120%;
+    width: 130%;
   }
 
 
