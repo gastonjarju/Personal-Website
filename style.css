@@ -550,15 +550,15 @@ li{
     margin: 0 0 0 auto;
   }
   .timeline h1{
-    font-size: 3rem;
+    font-size: auto;
   }
 
   .timeline h6{
-    font-size: 2rem;
+    font-size: auto;
   }
 
   .timeline p{
-    font-size: 1rem;
+    font-size: auto;
   }
 
   .timeline .date::before{
@@ -566,7 +566,7 @@ li{
   }
 
   .timeline  .date::after{
-    left: -4.9rem;
+    left: -8.9rem;
   }
 }
 
