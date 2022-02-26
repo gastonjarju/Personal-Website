@@ -554,9 +554,19 @@ li{
       position: relative;
   }
 
-  .timeline ul{
+  .timeline ul {
+    border-left: 2px solid #ffe838;
+    border-radius: .2rem;
+    background-color: #000839;
     margin: 0 0 0 auto;
+    position: relative;
+    padding: 2rem;
+    list-style: none;
+    text-align: initial;
+    width: 100%;
   }
+
+
   .timeline h1{
     font-size: auto;
   }
@@ -575,7 +585,7 @@ li{
   }
 
   .timeline  .date::after{
-    left: -4.9rem;
+    left: -3.9rem;
   }
 }
 
