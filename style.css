@@ -506,6 +506,14 @@ li{
     background-size: cover;
     background-color: #16697a;
   }
+  .container {
+      width: 90%;
+      max-width: 120rem;
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      display: none;
+  }
 
   .landing-text h1{
     font-size: 15rem;
