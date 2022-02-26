@@ -564,6 +564,7 @@ li{
 
   .timeline ul {
     border-left: 4px solid #ffe838;
+    border-right: 4px solid #ffe838;
     border-radius: .1rem;
     background-color: white;
     /* margin: 0 0 0 auto; */
