@@ -567,7 +567,7 @@ li{
 
   .timeline p{
     font-size: auto;
-    display: block;
+    display: initial;
   }
 
   .timeline .date::before{
