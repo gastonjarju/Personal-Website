@@ -551,7 +551,7 @@ li{
   }
 
   .timeline .date::before{
-    left: -20rem;
+    left: -10rem;
   }
 
   .timeline  .date::after{
