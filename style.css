@@ -566,7 +566,7 @@ li{
     border-radius: .1rem;
     background-color: white;
     margin: 0 0 0 auto;
-    position: static;
+    position: relative;
     padding: 1rem;
     list-style: none;
     text-align: initial;
