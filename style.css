@@ -500,9 +500,6 @@ li{
     background-size: cover;
     background-color: #16697a;
   }
-  .about-details p {
-    text-align: initial;
-  }
 
   .landing-text h1{
     font-size: 15rem;
@@ -548,6 +545,14 @@ li{
   .icon-container i{
     font-size: 4rem;
   }
+
+  /* .container {
+      width: 100%;
+      max-width: 150rem;
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+  } */
 
   .timeline ul {
     border-left: 2px solid #ffe838;
