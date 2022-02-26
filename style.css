@@ -549,13 +549,24 @@ li{
   .timeline ul{
     margin: 0 0 0 auto;
   }
+  .timeline h1{
+    font-size: 3rem;
+  }
+
+  .timeline h6{
+    font-size: 2rem;
+  }
+
+  .timeline p{
+    font-size: 1rem;
+  }
 
   .timeline .date::before{
-    left: -20rem;
+    left: -15rem;
   }
 
   .timeline  .date::after{
-    left: -5.9rem;
+    left: -4.9rem;
   }
 }
 
