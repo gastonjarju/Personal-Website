@@ -494,7 +494,7 @@ li{
 
 /*media queries*/
 
-@media only screen and (min-width: 480px){
+@media only screen and (max-width: 480px){
   body {
     background: url("layout-background.jpg") no-repeat center fixed;
     background-size: cover;
@@ -544,6 +544,14 @@ li{
 
   .icon-container i{
     font-size: 4rem;
+  }
+
+  .container {
+      width: 100%;
+      max-width: 150rem;
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
   }
 
   .timeline ul{
