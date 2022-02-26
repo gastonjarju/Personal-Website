@@ -571,11 +571,11 @@ li{
   }
 
   .timeline .date::before{
-    left: auto;
+    left: -10rem;
   }
 
   .timeline  .date::after{
-    left: auto;
+    left: -4.9rem;
   }
 }
 
